@@ -1,5 +1,4 @@
 package Project;
-// @author melkmeshi
 import java.io.Serializable;
 public class User implements Serializable{
     String Name;

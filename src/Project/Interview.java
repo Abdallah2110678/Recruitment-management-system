@@ -1,6 +1,6 @@
 package Project;
 
-// @author melkmeshi
+
 import java.io.Serializable;
 import java.util.Date;
 

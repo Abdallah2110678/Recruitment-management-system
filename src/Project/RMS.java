@@ -17,10 +17,7 @@ import javafx.scene.control.Alert.AlertType;
 import javafx.collections.*;
 import javafx.geometry.*;
 
-/**
- *
- * @author melkmeshi
- */
+
 public class RMS extends Application {
 
     static String loggedInAs = new String();
